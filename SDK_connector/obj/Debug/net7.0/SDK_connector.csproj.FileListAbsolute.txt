@@ -1,0 +1,15 @@
+/Users/krzysztofgruszczynski/Desktop/Jira connector/SDK_connector/obj/Debug/net7.0/SDK_connector.csproj.AssemblyReference.cache
+/Users/krzysztofgruszczynski/Desktop/Jira connector/SDK_connector/obj/Debug/net7.0/SDK_connector.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krzysztofgruszczynski/Desktop/Jira connector/SDK_connector/obj/Debug/net7.0/SDK_connector.AssemblyInfoInputs.cache
+/Users/krzysztofgruszczynski/Desktop/Jira connector/SDK_connector/obj/Debug/net7.0/SDK_connector.AssemblyInfo.cs
+/Users/krzysztofgruszczynski/Desktop/Jira connector/SDK_connector/obj/Debug/net7.0/SDK_connector.csproj.CoreCompileInputs.cache
+/Users/krzysztofgruszczynski/Desktop/Jira connector/SDK_connector/bin/Debug/net7.0/SDK_connector.deps.json
+/Users/krzysztofgruszczynski/Desktop/Jira connector/SDK_connector/bin/Debug/net7.0/SDK_connector.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/SDK_connector/bin/Debug/net7.0/SDK_connector.pdb
+/Users/krzysztofgruszczynski/Desktop/Jira connector/SDK_connector/obj/Debug/net7.0/SDK_connector.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/SDK_connector/obj/Debug/net7.0/refint/SDK_connector.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/SDK_connector/obj/Debug/net7.0/SDK_connector.pdb
+/Users/krzysztofgruszczynski/Desktop/Jira connector/SDK_connector/obj/Debug/net7.0/ref/SDK_connector.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/SDK_connector/bin/Debug/net7.0/Domain.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/SDK_connector/bin/Debug/net7.0/Domain.pdb
+/Users/krzysztofgruszczynski/Desktop/Jira connector/SDK_connector/obj/Debug/net7.0/SDK_connector.csproj.CopyComplete

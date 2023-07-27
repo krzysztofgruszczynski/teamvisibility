@@ -1,0 +1,17 @@
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Application_logic/bin/Debug/net7.0/Application_logic.deps.json
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Application_logic/bin/Debug/net7.0/Application_logic.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Application_logic/bin/Debug/net7.0/Application_logic.pdb
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Application_logic/bin/Debug/net7.0/Domain.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Application_logic/bin/Debug/net7.0/SDK_connector.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Application_logic/bin/Debug/net7.0/SDK_connector.pdb
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Application_logic/bin/Debug/net7.0/Domain.pdb
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Application_logic/obj/Debug/net7.0/Application_logic.csproj.AssemblyReference.cache
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Application_logic/obj/Debug/net7.0/Application_logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Application_logic/obj/Debug/net7.0/Application_logic.AssemblyInfoInputs.cache
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Application_logic/obj/Debug/net7.0/Application_logic.AssemblyInfo.cs
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Application_logic/obj/Debug/net7.0/Application_logic.csproj.CoreCompileInputs.cache
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Application_logic/obj/Debug/net7.0/Application_logic.csproj.CopyComplete
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Application_logic/obj/Debug/net7.0/Application_logic.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Application_logic/obj/Debug/net7.0/refint/Application_logic.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Application_logic/obj/Debug/net7.0/Application_logic.pdb
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Application_logic/obj/Debug/net7.0/ref/Application_logic.dll

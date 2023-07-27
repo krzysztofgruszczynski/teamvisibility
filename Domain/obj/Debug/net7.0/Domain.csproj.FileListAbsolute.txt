@@ -1,0 +1,12 @@
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Domain/bin/Debug/net7.0/Domain.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Domain/obj/Debug/net7.0/Domain.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Domain/obj/Debug/net7.0/ref/Domain.dll

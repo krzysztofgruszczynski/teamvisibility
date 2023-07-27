@@ -1,0 +1,42 @@
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console app/bin/Debug/net7.0/Console app
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console app/bin/Debug/net7.0/Console app.deps.json
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console app/bin/Debug/net7.0/Console app.runtimeconfig.json
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console app/bin/Debug/net7.0/Console app.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console app/bin/Debug/net7.0/Console app.pdb
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console app/obj/Debug/net7.0/Console app.csproj.AssemblyReference.cache
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console app/obj/Debug/net7.0/Console app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console app/obj/Debug/net7.0/Console app.AssemblyInfoInputs.cache
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console app/obj/Debug/net7.0/Console app.AssemblyInfo.cs
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console app/obj/Debug/net7.0/Console app.csproj.CoreCompileInputs.cache
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console app/obj/Debug/net7.0/Console app.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console app/obj/Debug/net7.0/refint/Console app.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console app/obj/Debug/net7.0/Console app.pdb
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console app/obj/Debug/net7.0/Console app.genruntimeconfig.cache
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console app/obj/Debug/net7.0/ref/Console app.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console app/bin/Debug/net7.0/API_connector.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console app/bin/Debug/net7.0/API_connector.pdb
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console app/obj/Debug/net7.0/Console app.csproj.CopyComplete
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console app/bin/Debug/net7.0/Atlassian.Jira.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console app/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console app/bin/Debug/net7.0/RestSharp.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console_app/bin/Debug/net7.0/Console app
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console_app/bin/Debug/net7.0/Console app.deps.json
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console_app/bin/Debug/net7.0/Console app.runtimeconfig.json
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console_app/bin/Debug/net7.0/Console app.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console_app/bin/Debug/net7.0/Console app.pdb
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console_app/bin/Debug/net7.0/Atlassian.Jira.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console_app/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console_app/bin/Debug/net7.0/RestSharp.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console_app/bin/Debug/net7.0/API_connector.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console_app/bin/Debug/net7.0/API_connector.pdb
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console_app/obj/Debug/net7.0/Console app.csproj.AssemblyReference.cache
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console_app/obj/Debug/net7.0/Console app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console_app/obj/Debug/net7.0/Console app.AssemblyInfoInputs.cache
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console_app/obj/Debug/net7.0/Console app.AssemblyInfo.cs
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console_app/obj/Debug/net7.0/Console app.csproj.CoreCompileInputs.cache
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console_app/obj/Debug/net7.0/Console app.csproj.CopyComplete
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console_app/obj/Debug/net7.0/Console app.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console_app/obj/Debug/net7.0/refint/Console app.dll
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console_app/obj/Debug/net7.0/Console app.pdb
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console_app/obj/Debug/net7.0/Console app.genruntimeconfig.cache
+/Users/krzysztofgruszczynski/Desktop/Jira connector/Console_app/obj/Debug/net7.0/ref/Console app.dll

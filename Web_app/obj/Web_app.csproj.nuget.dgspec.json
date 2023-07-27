@@ -1,0 +1,242 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/krzysztofgruszczynski/Desktop/Jira connector/Web_app/Web_app.csproj": {}
+  },
+  "projects": {
+    "/Users/krzysztofgruszczynski/Desktop/Jira connector/Application_logic/Application_logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/krzysztofgruszczynski/Desktop/Jira connector/Application_logic/Application_logic.csproj",
+        "projectName": "Application_logic",
+        "projectPath": "/Users/krzysztofgruszczynski/Desktop/Jira connector/Application_logic/Application_logic.csproj",
+        "packagesPath": "/Users/krzysztofgruszczynski/.nuget/packages/",
+        "outputPath": "/Users/krzysztofgruszczynski/Desktop/Jira connector/Application_logic/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/krzysztofgruszczynski/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/krzysztofgruszczynski/Desktop/Jira connector/SDK_Connector/SDK_connector.csproj": {
+                "projectPath": "/Users/krzysztofgruszczynski/Desktop/Jira connector/SDK_Connector/SDK_connector.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/krzysztofgruszczynski/Desktop/Jira connector/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/krzysztofgruszczynski/Desktop/Jira connector/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/krzysztofgruszczynski/Desktop/Jira connector/Domain/Domain.csproj",
+        "packagesPath": "/Users/krzysztofgruszczynski/.nuget/packages/",
+        "outputPath": "/Users/krzysztofgruszczynski/Desktop/Jira connector/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/krzysztofgruszczynski/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/krzysztofgruszczynski/Desktop/Jira connector/SDK_Connector/SDK_connector.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/krzysztofgruszczynski/Desktop/Jira connector/SDK_Connector/SDK_connector.csproj",
+        "projectName": "SDK_connector",
+        "projectPath": "/Users/krzysztofgruszczynski/Desktop/Jira connector/SDK_Connector/SDK_connector.csproj",
+        "packagesPath": "/Users/krzysztofgruszczynski/.nuget/packages/",
+        "outputPath": "/Users/krzysztofgruszczynski/Desktop/Jira connector/SDK_Connector/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/krzysztofgruszczynski/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/krzysztofgruszczynski/Desktop/Jira connector/Domain/Domain.csproj": {
+                "projectPath": "/Users/krzysztofgruszczynski/Desktop/Jira connector/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Atlassian.SDK": {
+              "target": "Package",
+              "version": "[13.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/krzysztofgruszczynski/Desktop/Jira connector/Web_app/Web_app.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/krzysztofgruszczynski/Desktop/Jira connector/Web_app/Web_app.csproj",
+        "projectName": "Web_app",
+        "projectPath": "/Users/krzysztofgruszczynski/Desktop/Jira connector/Web_app/Web_app.csproj",
+        "packagesPath": "/Users/krzysztofgruszczynski/.nuget/packages/",
+        "outputPath": "/Users/krzysztofgruszczynski/Desktop/Jira connector/Web_app/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/krzysztofgruszczynski/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.302/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/krzysztofgruszczynski/Desktop/Jira connector/Application_logic/Application_logic.csproj": {
+                "projectPath": "/Users/krzysztofgruszczynski/Desktop/Jira connector/Application_logic/Application_logic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
